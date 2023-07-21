@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@snowdog/vuepress-plugin-pdf-export": "^1.1.0",
+    "vuepress": "^1.9.9",
+    "vuepress-plugin-auto-sidebar": "^2.2.2"
+  },
+  "scripts": {
+    "serve": "vuepress dev source",
+    "build": "vuepress build source",
+    "nav": "vuepress nav source"
+  }
+}
